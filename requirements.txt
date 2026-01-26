@@ -1,0 +1,3 @@
+# GitHub Statistics Tool
+# 외부 라이브러리 불필요 - GitHub CLI (gh) 사용
+# gh CLI 설치 필요: https://cli.github.com/
