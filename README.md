@@ -1,5 +1,8 @@
 # GitHub 활동 통계 도구
 
+[![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![GitHub CLI](https://img.shields.io/badge/GitHub%20CLI-gh-181717?logo=github&logoColor=white)](https://cli.github.com)
+
 인사평가 첨부자료용 GitHub 활동 내역 보고서 생성 도구
 
 ## 기능
